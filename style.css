@@ -3,3 +3,48 @@ body {
   height: 100%;
   margin: 0;
 }
+
+div.container {
+  text-align: center; 
+}
+
+nav a {
+  padding: 0px 5px;
+  background: lightgrey;  
+}
+
+section#featured-property p {
+  width: 800px;
+
+}
+
+/* div#description {
+  margin-left: 275px;
+  margin-right: 275px;
+} */
+
+figcaption {
+  font-size: 14px;
+}
+
+/* section#details {
+  display: block;
+}
+
+section#details div {
+  float: left;
+} */
+
+section div {
+  
+  display: inline-block;
+  text-align: center;
+  /* width: 25%; */
+  padding-left: 40px;
+  margin-left: 70px;
+  margin-right: 50px;
+}
+
+section#details {
+  background-color: red;
+}
